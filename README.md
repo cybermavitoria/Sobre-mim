@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on basic network and information security projects
 - 📫 How to reach me you can find me on twitter @fearwnot
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: When I'm not fighting cybercrime, I'm probably rocking out to my concert-quality audio setup (all Logitech, of course). Let's connect and talk about cybersecurity, dogs, or the perfect keyboard-mouse combo.
+- ⚡ Fun fact: When I'm not fighting cybercrime, I'm probably rocking out to my concert-quality audio setup (all Logitech, of course). Let's connect and talk about cybersecurity, dogs, k-pop or the perfect keyboard-mouse combo.
 
 <!---
 cyberningning/cyberningning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
