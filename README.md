@@ -1,12 +1,24 @@
-- 👋 Hi, I’m Maria Vitoria
-- 👀 I’m interested in Cybersecurity Enthusiast Protecting systems from the bad guys is my jam. I'm an aspiring information security professional with a passion for keeping the digital world safe. Currently, I'm a student eagerly soaking up knowledge and building a solid foundation in cybersecurity. My ultimate goal is to join a blue team and put my skills to the test, protecting systems from the ever-evolving threats of the cyber landscape.
-- 🌱 I’m currently learning computer networking
-- 💞️ I’m looking to collaborate on basic network and information security projects
-- 📫 How to reach me you can find me on twitter or linkedin
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: When I'm not fighting cybercrime, I'm probably rocking out to my concert-quality audio setup (all Logitech, of course). Let's connect and talk about cybersecurity, dogs, or the perfect keyboard-mouse combo.
+👋 Olá, sou Mavi!
+🎯 Objetivo: Estudante em cibersegurança e redes de computadores, em busca de uma oportunidade na área de segurança da informação.
 
-<!---
-cyberningning/cyberningning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Projetos:
+
+Segurança de Rede: Scripts em Python para automação de tarefas de monitoramento e detecção de vulnerabilidades.
+Análise de Logs: Ferramentas desenvolvidas para extração e análise de logs de sistemas, facilitando a identificação de incidentes.
+Packet Tracer Configurations: Simulações de topologias de rede e resolução de problemas comuns em roteamento e conectividade.
+📚 Estudos Atuais:
+
+Cybersecurity pelo Coursera: Práticas e conceitos atualizados em segurança da informação.
+Python Essentials: Desenvolvimento de scripts para automação e análise de dados.
+Cisco CCNA: Foco em redes, protocolos e segurança.
+Cibersegurança: Práticas de defesa, identificação de ameaças e mitigação de riscos.
+🔧 Competências Técnicas:
+
+Linguagens: Python (básico a intermediário).
+Ferramentas de Rede: Packet Tracer, comandos CLI de redes.
+Sistemas Operacionais: Windows e conhecimentos básicos em Linux.
+Cibersegurança: Reconhecimento de ameaças, segurança de endpoint.
+📈 Próximos Passos:
+
+Melhorar habilidades de programação em Python com projetos mais complexos.
+Aprofundar conhecimento em análise de segurança de redes e respostas a incidentes.
