@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Maria Vitória </h1>
 
 <p align="center">
-  Estudante de Segurança Cibernética | Blue Team | Amante de tecnologia e K-pop
+  Estudante de Segurança Cibernética | Blue Team | Amante de tecnologia
 </p>
 
 ---
