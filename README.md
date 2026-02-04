@@ -10,8 +10,7 @@
 
 Estudante de Tecnologia em Gestão e Defesa Cibernética pela UNINTER  
 Apaixonada por Cibersegurança, OSINT e Defesa Digital  
-Conhecimentos em Linux, Redes, Python e Ferramentas de Blue Team  
-Foco atual: Laboratório Virtual com Kali Linux, pfSense, Ubuntu Server, Wireshark e Autopsy  
+Conhecimentos em Linux, Redes, Python e Ferramentas de Blue Team
 
 ---
 
